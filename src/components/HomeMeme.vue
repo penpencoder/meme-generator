@@ -12,10 +12,14 @@
             </div>
             <button class="btn btn-dark" @click="created()">Generate Meme</button>
           </div>
+          <div class="text-center">
+            Made with stupidity by yours truly: Stephen "Pogi" Pascual 
+          </div>
         </div>
+        
       </div>
+      
     </div>
-    
   </div>
 </template>
 
